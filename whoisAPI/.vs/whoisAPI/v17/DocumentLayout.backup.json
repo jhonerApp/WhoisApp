@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repository\\Whois IP\\whoisAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63B8D993-8CCA-3CAA-CC03-24596005EFF1}|whoisAPI.csproj|d:\\repository\\whois ip\\whoisapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B8D993-8CCA-3CAA-CC03-24596005EFF1}|whoisAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B8D993-8CCA-3CAA-CC03-24596005EFF1}|whoisAPI.csproj|d:\\repository\\whois ip\\whoisapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63B8D993-8CCA-3CAA-CC03-24596005EFF1}|whoisAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B8D993-8CCA-3CAA-CC03-24596005EFF1}|whoisAPI.csproj|d:\\repository\\whois ip\\whoisapi\\controllers\\whoiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B8D993-8CCA-3CAA-CC03-24596005EFF1}|whoisAPI.csproj|solutionrelative:controllers\\whoiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B8D993-8CCA-3CAA-CC03-24596005EFF1}|whoisAPI.csproj|d:\\repository\\whois ip\\whoisapi\\whoisapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{63B8D993-8CCA-3CAA-CC03-24596005EFF1}|whoisAPI.csproj|solutionrelative:whoisapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B8D993-8CCA-3CAA-CC03-24596005EFF1}|whoisAPI.csproj|d:\\repository\\whois ip\\whoisapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63B8D993-8CCA-3CAA-CC03-24596005EFF1}|whoisAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "whoisAPI",
+              "DocumentMoniker": "D:\\Repository\\Whois IP\\whoisAPI\\whoisAPI.csproj",
+              "RelativeDocumentMoniker": "whoisAPI.csproj",
+              "ToolTip": "D:\\Repository\\Whois IP\\whoisAPI\\whoisAPI.csproj",
+              "RelativeToolTip": "whoisAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T13:58:12.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Repository\\Whois IP\\whoisAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Repository\\Whois IP\\whoisAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T10:20:23.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Repository\\Whois IP\\whoisAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Repository\\Whois IP\\whoisAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T10:20:21.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WhoisController.cs",
+              "DocumentMoniker": "D:\\Repository\\Whois IP\\whoisAPI\\Controllers\\WhoisController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WhoisController.cs",
+              "ToolTip": "D:\\Repository\\Whois IP\\whoisAPI\\Controllers\\WhoisController.cs",
+              "RelativeToolTip": "Controllers\\WhoisController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAD4vzUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:02:22.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repository\\Whois IP\\whoisAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Repository\\Whois IP\\whoisAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:01:54.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

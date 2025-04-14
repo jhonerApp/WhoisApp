@@ -1,0 +1,66 @@
+D:\Repository\NetCoreAPi\whoisAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Repository\NetCoreAPi\whoisAPI\bin\Debug\net8.0\appsettings.json
+D:\Repository\NetCoreAPi\whoisAPI\bin\Debug\net8.0\whoisAPI.exe
+D:\Repository\NetCoreAPi\whoisAPI\bin\Debug\net8.0\whoisAPI.deps.json
+D:\Repository\NetCoreAPi\whoisAPI\bin\Debug\net8.0\whoisAPI.runtimeconfig.json
+D:\Repository\NetCoreAPi\whoisAPI\bin\Debug\net8.0\whoisAPI.dll
+D:\Repository\NetCoreAPi\whoisAPI\bin\Debug\net8.0\whoisAPI.pdb
+D:\Repository\NetCoreAPi\whoisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Repository\NetCoreAPi\whoisAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Repository\NetCoreAPi\whoisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repository\NetCoreAPi\whoisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repository\NetCoreAPi\whoisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\whoisAPI.csproj.AssemblyReference.cache
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\whoisAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\whoisAPI.AssemblyInfoInputs.cache
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\whoisAPI.AssemblyInfo.cs
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\whoisAPI.csproj.CoreCompileInputs.cache
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\whoisAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\whoisAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\staticwebassets\msbuild.whoisAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.whoisAPI.props
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.whoisAPI.props
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.whoisAPI.props
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\scopedcss\bundle\whoisAPI.styles.css
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\whoisAPI.csproj.Up2Date
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\whoisAPI.dll
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\refint\whoisAPI.dll
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\whoisAPI.pdb
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\whoisAPI.genruntimeconfig.cache
+D:\Repository\NetCoreAPi\whoisAPI\obj\Debug\net8.0\ref\whoisAPI.dll
+D:\Repository\Whois IP\whoisAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Repository\Whois IP\whoisAPI\bin\Debug\net8.0\appsettings.json
+D:\Repository\Whois IP\whoisAPI\bin\Debug\net8.0\whoisAPI.exe
+D:\Repository\Whois IP\whoisAPI\bin\Debug\net8.0\whoisAPI.deps.json
+D:\Repository\Whois IP\whoisAPI\bin\Debug\net8.0\whoisAPI.runtimeconfig.json
+D:\Repository\Whois IP\whoisAPI\bin\Debug\net8.0\whoisAPI.dll
+D:\Repository\Whois IP\whoisAPI\bin\Debug\net8.0\whoisAPI.pdb
+D:\Repository\Whois IP\whoisAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Repository\Whois IP\whoisAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Repository\Whois IP\whoisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repository\Whois IP\whoisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repository\Whois IP\whoisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\whoisAPI.csproj.AssemblyReference.cache
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\whoisAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\whoisAPI.AssemblyInfoInputs.cache
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\whoisAPI.AssemblyInfo.cs
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\whoisAPI.csproj.CoreCompileInputs.cache
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\whoisAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\whoisAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\staticwebassets\msbuild.whoisAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.whoisAPI.props
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.whoisAPI.props
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.whoisAPI.props
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\scopedcss\bundle\whoisAPI.styles.css
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\whoisAPI.csproj.Up2Date
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\whoisAPI.dll
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\refint\whoisAPI.dll
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\whoisAPI.pdb
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\whoisAPI.genruntimeconfig.cache
+D:\Repository\Whois IP\whoisAPI\obj\Debug\net8.0\ref\whoisAPI.dll

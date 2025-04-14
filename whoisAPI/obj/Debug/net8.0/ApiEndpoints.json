@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "whoisAPI.Controllers.WhoisController",
+    "Method": "GetWhoisData",
+    "RelativePath": "api/Whois",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "domain",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

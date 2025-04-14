@@ -1,0 +1,12 @@
+D:\Repository\Whois IP\whoisAPI\publish\whoisAPI.exe
+D:\Repository\Whois IP\whoisAPI\publish\appsettings.Development.json
+D:\Repository\Whois IP\whoisAPI\publish\appsettings.json
+D:\Repository\Whois IP\whoisAPI\publish\whoisAPI.dll
+D:\Repository\Whois IP\whoisAPI\publish\whoisAPI.deps.json
+D:\Repository\Whois IP\whoisAPI\publish\whoisAPI.runtimeconfig.json
+D:\Repository\Whois IP\whoisAPI\publish\whoisAPI.pdb
+D:\Repository\Whois IP\whoisAPI\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\Repository\Whois IP\whoisAPI\publish\Microsoft.OpenApi.dll
+D:\Repository\Whois IP\whoisAPI\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repository\Whois IP\whoisAPI\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repository\Whois IP\whoisAPI\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

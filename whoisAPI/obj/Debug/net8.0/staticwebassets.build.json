@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tuj2SYLdprOwJpOVIJdgTHd/oLKVoPkTZr9nAOEMmn0=",
+  "Source": "whoisAPI",
+  "BasePath": "_content/whoisAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

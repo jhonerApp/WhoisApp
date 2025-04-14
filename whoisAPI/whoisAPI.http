@@ -1,0 +1,6 @@
+@whoisAPI_HostAddress = http://localhost:5133
+
+GET {{whoisAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
