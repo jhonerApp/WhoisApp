@@ -66,9 +66,10 @@ This will launch the API server on the configured ports (e.g., http://localhost:
     
 🔐 API Key Configuration
 You can update your WhoisXML API key directly in the appsettings.json file:
-
-{
-  "WhoisApi": {
-    "ApiKey": "your_api_key_here"
-  }
-}
+  ```sh
+     {
+        "WhoisApi": {
+          "ApiKey": "your_api_key_here"
+        }
+      }
+   ``` 
